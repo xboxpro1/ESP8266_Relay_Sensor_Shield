@@ -4,4 +4,3 @@
 ESP8266 multipurpose Relay Sensor Shield. [Datasheets](/datasheet)
 
 
-![Shematic](/image/shematic.png)
